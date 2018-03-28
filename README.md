@@ -54,7 +54,13 @@ According to "Numberphile" on YouTube, the highest number(the one that takes the
 ---------------------------------------------------------//-----------------------------------------------------------------------------
 
 
-#### *Week 4 - <Project Euler -Prob5> Problem5.py (Not uploaded yet)*
+#### *Week 4 - Problem5.py *
+
+> This file is not exactly what I was going for,but in the process of writing it I improved my knowledge of Python Language:
+    * How to create a factorisation list of a number;
+    * Append elements in lists
+    * Import functions and use some of their tools(i.e.math function with pow or sqrt)
+    * Perform multiplication of all elements within a list
 
 
 

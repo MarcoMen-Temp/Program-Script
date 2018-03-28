@@ -2,10 +2,10 @@
 
 ## 52167 - Progaramming & Scripting
 
-### Weekly Assignments
+### Weekly Assignments **this text will be in bold**
 
 
-#### Week 1 - fib.py (by Dr. Ian Mcloughlin )
+#### Week 1 - fib.py (by Dr. Ian Mcloughlin ) *this text will be in italic*
 
   > Task - Was to copy and paste a file from GitHub and run it in VS Code
   > File - returns the nth Fibonnaci number, which in fib.py is 28 and returns the 28th fibonnacci number( 317811 )
@@ -14,17 +14,19 @@
 ----------------------------------------------------------//----------------------------------------------------------------------------
 
 
-#### Week2 - 
+#### Week2 - *this text will be in italic*
 
 > File Used This Week - Same for both assignments
-   * fib1-week2.py - 
+   * fib1-week2.py 
       * In this file I input my first name in an assigned variable
       * The file then runs and assigns the ASCII character codes for the first and last letters 
       * Calculates the sum
       * Returns the nth(=Sum calculated) fibonnaci number
   
-  * week2-fib2.py -
+  * week2-fib2.py 
       * This is the same as above,but for the surname is used in the variable input( I used my second name )
+      
+ > Definition of ord()
       
       
 ----------------------------------------------------------//----------------------------------------------------------------------------

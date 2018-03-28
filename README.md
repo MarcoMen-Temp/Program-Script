@@ -11,6 +11,7 @@
   > File - returns the nth Fibonnaci number, which in fib.py is 28 and returns the 28th fibonnacci number( 317811 )
 
 
+----------------------------------------------------------//----------------------------------------------------------------------------
 
 
 #### Week2 - 
@@ -24,7 +25,9 @@
   
   * week2-fib2.py -
       * This is the same as above,but for the surname is used in the variable input( I used my second name )
-           
+      
+      
+----------------------------------------------------------//----------------------------------------------------------------------------
            
 #### Week 3 - week3.py
 
@@ -40,13 +43,24 @@ I also included the number of steps(counted) that it took for the sequence to ru
 According to "Numberphile" on YouTube, the highest number(the one that takes the highest number of steps to reach to 1) is 63,728,127( 949 steps to reach to 1 )
 
 
+---------------------------------------------------------//-----------------------------------------------------------------------------
+
+
 #### Week 4 - <Project Euler -Prob5> Problem5.py (Not uploaded yet)
+
+
+
+
+---------------------------------------------------------//-----------------------------------------------------------------------------
 
 
 #### Week 5 - <DataSet> format.py
   > This is a folder that contains open.py(which is the one performed by Lecturer on video lecture)
   
   > The format.py is the file for the assignment,with top row,numerical values formatted(column spaced and aligned with the top) and separator('|')
+  
+  
+  -------------------------------------------------------//-----------------------------------------------------------------------------
   
   
 #### Week 6 - factorials.py

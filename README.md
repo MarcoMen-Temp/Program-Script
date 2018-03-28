@@ -17,10 +17,10 @@
 
 > File Used This Week - Same for both assignments
    * fib1-week2.py - 
-      *In this file I input my first name in an assigned variable,
-      *The file then runs and assigns the ASCII character codes for the first and last letters 
+      * In this file I input my first name in an assigned variable
+      * The file then runs and assigns the ASCII character codes for the first and last letters 
       * Calculates the sum
-      *Returns the nth(=Sum calculated) fibonnaci number
+      * Returns the nth(=Sum calculated) fibonnaci number
   
   * week2-fib2.py -
       * This is the same as above,but for the surname is used in the variable input( I used my second name )
@@ -31,7 +31,7 @@
 File - Returns the Collatz Sequence
 > Collatz Sequence :
 > A random number runs a backwards sequence and ends always in 1
-   >Two Conditions For This to happen:
+   > Two Conditions For This to happen:
 * If an odd nunmber --> divide by 3 and add 1
 * If even number --> divide by 2
 
@@ -58,4 +58,4 @@ According to "Numberphile" on YouTube, the highest number(the one that takes the
    * 5! = 5x4x3x2x1
    * But 0! = 1(not 0)
    
->This algorithm can be written using recursion(a function that returns to itself until the condition is no longer satisfied-exiting the function)
+> This algorithm can be written using recursion(a function that returns to itself until the condition is no longer satisfied-exiting the function)

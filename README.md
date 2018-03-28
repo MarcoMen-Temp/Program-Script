@@ -63,7 +63,7 @@ According to "Numberphile" on YouTube, the highest number(the one that takes the
 
 
 #### *Week 5* - <DataSet>
-  > **<DataSet>** is a folder that contains **open.py** (which is the one performed by Lecturer on video lecture)
+  > **DataSet** is a folder that contains **open.py** (which is the one performed by Lecturer on video lecture)
   
   > The **format.py** is the file for the assignment,with top row,numerical values formatted(column spaced and aligned with the top) and separator('|')
   

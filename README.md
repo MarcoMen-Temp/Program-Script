@@ -26,7 +26,13 @@
   * week2-fib2.py 
       * This is the same as above,but for the surname is used in the variable input( I used my second name )
       
- > Definition of ord()
+ > Definition of ord()- After googling (perhaps not a proper verb) " ord () ",which lead me to sites such as GeeksforGeek.org and stackoverflow. The definition is the inverse of Chr() -Return the Unicode code point for one character string . Example: on my first name ,the first letter is an " M " with an Unicode number of 77; and the last letter " o " with the value of 111. The sum of the 2 is 188 ( fib1.py )
+
+My second name  " Filipe ", the same principle applies . Unicode values for :
+
+- " F " is 70 and " e " is 101. The sum of both is 171 ( fib2.py )
+
+I used the following site https://unicode-table.com/en/#004D , to confirm the values ( defined as HTML - code )
       
       
 ----------------------------------------------------------//----------------------------------------------------------------------------
@@ -57,7 +63,7 @@ According to "Numberphile" on YouTube, the highest number(the one that takes the
 
 
 #### *Week 5* - <DataSet>
-  > This is a folder that contains **open.py** (which is the one performed by Lecturer on video lecture)
+  > **<DataSet>** is a folder that contains **open.py** (which is the one performed by Lecturer on video lecture)
   
   > The **format.py** is the file for the assignment,with top row,numerical values formatted(column spaced and aligned with the top) and separator('|')
   

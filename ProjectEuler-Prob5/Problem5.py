@@ -11,7 +11,7 @@ import functools
 
 def prime_factors(x):
     x=2520
-    '''x=232792560  # lcm of the first 10 natural numbers'''
+    '''x=2520  # lcm of the first 10 natural numbers'''
     A=[]
     for i in range (2, x):
         while x%i==0:
@@ -48,7 +48,7 @@ for x in Primes:
     product = product * x
 
 print(product)
-print (product * 2520)
+print (product * 2520 * 2) # 2520 is the lcm for the first 10 natural numbers, 2 is to equalise with the highest base 2 number(16)
 
 
 
